@@ -1,2 +1,2 @@
 # chatEspai
-Small chat application built as practice during my Java training
+Small chat application using sockets built as practice during my Java training
